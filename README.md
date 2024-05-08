@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Tanmoy Chatterjee!
+# 👋 Hi, I'm Tanmoy Chatterjee!
 
 <!--
 **iamTANMOY7/iamTANMOY7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,linux,python,java,cpp,powerbi)](https://skillicons.dev)
+## 📚 My skills are :
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,linux,github)](https://skillicons.dev)
