@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📚 My skills are :
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,linux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,github,linux)](https://skillicons.dev)
