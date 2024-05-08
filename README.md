@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanmoy Chatterjee!
 
-### Passionate about coding and problem solving
+### Passionate about coding and problem solving.
 <!--
 **iamTANMOY7/iamTANMOY7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
