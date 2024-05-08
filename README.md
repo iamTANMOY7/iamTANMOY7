@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Tanmoy Chatterjee!
 
+### Passionate about coding and problem solving
 <!--
 **iamTANMOY7/iamTANMOY7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📚 My skills are :
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,linux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,python,mysql,linux,vscode,anaconda,github)](https://skillicons.dev)
+
+## 🌱 Currently learning :
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,angular)](https://skillicons.dev)
