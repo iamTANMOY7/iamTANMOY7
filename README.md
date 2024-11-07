@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📚 My skills are :
-[![My Skills](https://skillicons.dev/icons?i=python,django,ninja,mysql,html,css,cpp,java,linux,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,sqlite,postgresql,html,css,cpp,java,linux,vscode,github)](https://skillicons.dev)
 
 ## 🌱 Currently learning :
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,angular)](https://skillicons.dev)
