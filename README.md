@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=python,django,mysql,sqlite,postgresql,tensorflow,opencv,html,css,java,linux,git,github,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently learning :
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,npm)](https://skillicons.dev)
