@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📚 My skills are :
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,sqlite,mongodb,aws,azure,firebase,tensorflow,pytorch,opencv,docker,nginx,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,mongodb,aws,azure,firebase,tensorflow,pytorch,opencv,docker,nginx,githubactions)](https://skillicons.dev)
